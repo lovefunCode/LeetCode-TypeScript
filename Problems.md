@@ -10,6 +10,8 @@ You can find the code in [`removeElement.ts`](./ArrayString/removeElement.ts)
 # 3. Binary Tree
 
 # 4. HashMap
+1. LeetCode 146. LRU Cache https://leetcode.com/problems/lru-cache/ </br>
+You can find the code in [`LRU-Cache.ts`](./HashMap/LRU-Cache.ts)
 
 # 5. Slding Window
 
