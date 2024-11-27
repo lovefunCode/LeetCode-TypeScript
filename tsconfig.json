@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",          // Compile to ES6 (ECMAScript 2015)
+    "module": "commonjs",     // Use CommonJS module system (you can change it if you're using something else)
+    "strict": true,           // Enable strict type-checking options
+    "esModuleInterop": true,  // Allow importing CommonJS modules
+    "skipLibCheck": true,     // Optional: Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true // Optional: Ensure file name casing consistency
+  }
+}

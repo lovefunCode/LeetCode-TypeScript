@@ -2,7 +2,7 @@
 
 1. LeetCode 27. Remove Element 
 https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
-</br>
+
 You can find the code in [`removeElement.ts`](./ArrayString/removeElement.ts)
 
 # 2. Binary Search
