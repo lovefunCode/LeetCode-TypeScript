@@ -8,7 +8,9 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": [
-    "ArrayString/**/*.ts"  // Adjust this path to include all TypeScript files in the ArrayString folder
+    "ArrayString/**/*.ts", // Adjust this path to include all TypeScript files in the ArrayString folder
+    "HashMap/**/*.ts"  // Adjust this path to include all TypeScript files in the ArrayString folder
+    
   ],
   "exclude": [
     "node_modules"  // Exclude node_modules from the compilation

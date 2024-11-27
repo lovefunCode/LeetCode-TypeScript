@@ -20,3 +20,9 @@ You can find the code in [`removeElement.ts`](./ArrayString/removeElement.ts)
 # 8. Graph
 
 # 9. Matrix
+
+
+# 10. Dynamic Programming 
+1. LeetCode 152  Maximum Product Subarray
+https://leetcode.com/problems/maximum-product-subarray/description/
+You can find the code in [`removeElement.ts`](./DynamicProgramming/removeElement.ts)
