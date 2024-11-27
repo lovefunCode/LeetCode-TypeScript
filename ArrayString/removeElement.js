@@ -1,6 +1,7 @@
+"use strict";
 function removeElement(nums, val) {
-    var writeIndex = 0;
-    for (var i = 0; i < nums.length; i++) {
+    let writeIndex = 0;
+    for (let i = 0; i < nums.length; i++) {
         if (nums[i] !== val) {
             nums[writeIndex] = nums[i];
             writeIndex++;
@@ -8,6 +9,6 @@ function removeElement(nums, val) {
     }
     return writeIndex;
 }
-var nums = [3, 2, 2, 3];
-var val = 3;
+let nums = [3, 2, 2, 3];
+let val = 3;
 console.log(removeElement(nums, val));

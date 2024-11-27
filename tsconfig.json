@@ -1,10 +1,16 @@
 {
   "compilerOptions": {
-    "target": "ES6",          // Compile to ES6 (ECMAScript 2015)
-    "module": "commonjs",     // Use CommonJS module system (you can change it if you're using something else)
-    "strict": true,           // Enable strict type-checking options
-    "esModuleInterop": true,  // Allow importing CommonJS modules
-    "skipLibCheck": true,     // Optional: Skip type checking of declaration files
-    "forceConsistentCasingInFileNames": true // Optional: Ensure file name casing consistency
-  }
+    "target": "ES6",  // You can target ES6 or higher
+    "module": "commonjs",  // or "esnext" based on your project setup
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "ArrayString/**/*.ts"  // Adjust this path to include all TypeScript files in the ArrayString folder
+  ],
+  "exclude": [
+    "node_modules"  // Exclude node_modules from the compilation
+  ]
 }
