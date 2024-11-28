@@ -8,7 +8,7 @@
     "forceConsistentCasingInFileNames": true,
     "rootDir": "./",
     "isolatedModules": true,
-    // "outDir": "./dist",
+    "outDir": "./dist",
     "lib": ["ES6", "DOM"], // Add ES6 or later
   },
   "include": [
@@ -24,6 +24,6 @@
   ],
   "exclude": [
     "node_modules",  // Exclude node_modules from the compilation
-    
+
   ]
 }
