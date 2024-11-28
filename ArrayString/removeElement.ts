@@ -1,3 +1,4 @@
+export {}; // Makes this file a module
 function removeElement(nums: number[], val:number): number{
     let writeIndex: number = 0
     for(let i:number = 0; i < nums.length; i++){

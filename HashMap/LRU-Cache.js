@@ -1,12 +1,13 @@
 "use strict";
-class LRUCache {
-    constructor(capacity) {
+Object.defineProperty(exports, "__esModule", { value: true });
+var LRUCache = /** @class */ (function () {
+    function LRUCache(capacity) {
         this.capacity = capacity;
         this.map = new Map();
     }
-    get(key) {
+    LRUCache.prototype.get = function (key) {
         if (this.map.has(key)) {
-            let value = this.map.get(key);
+            var value = this.map.get(key);
             if (value != undefined) {
                 this.map.delete(key);
                 this.map.set(key, value);
@@ -14,11 +15,11 @@ class LRUCache {
             }
         }
         return -1;
-    }
-    put(key, value) {
+    };
+    LRUCache.prototype.put = function (key, value) {
         if (this.map.size == this.capacity) {
             if (!this.map.has(key)) {
-                let keys = Array.from(this.map.keys());
+                var keys = Array.from(this.map.keys());
                 this.map.delete(keys[0]);
             }
             else {
@@ -26,10 +27,11 @@ class LRUCache {
             }
         }
         this.map.set(key, value);
-    }
-}
-const obj = new LRUCache(2);
+    };
+    return LRUCache;
+}());
+var obj = new LRUCache(3);
 obj.put(1, 'a');
 obj.put(2, 'b');
 obj.put(3, 'c');
-console.log(obj.get(1));
+console.log(obj.get(2));

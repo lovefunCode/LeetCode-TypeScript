@@ -1,3 +1,4 @@
+export {}; // Makes this file a module
 class LRUCache{
     capacity: number;
     map: Map<number, string>;
