@@ -27,4 +27,4 @@ You can find the code in [`LRU-Cache.ts`](./HashMap/LRU-Cache.ts)
 # 10. Dynamic Programming 
 1. LeetCode 152  Maximum Product Subarray
 https://leetcode.com/problems/maximum-product-subarray/description/
-You can find the code in [`removeElement.ts`](./DynamicProgramming/removeElement.ts)
+You can find the code in [`maxProductSubarray.ts`](./DynamicProgramming/maxProductSubarray.ts)

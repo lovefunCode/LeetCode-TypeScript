@@ -1,18 +1,29 @@
 {
   "compilerOptions": {
     "target": "ES6",  // You can target ES6 or higher
-    "module": "commonjs",  // or "esnext" based on your project setup
+    "module": "ES6",  // or "esnext" based on your project setup
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "./",
+    "isolatedModules": true,
+    // "outDir": "./dist",
+    "lib": ["ES6", "DOM"], // Add ES6 or later
   },
   "include": [
     "ArrayString/**/*.ts", // Adjust this path to include all TypeScript files in the ArrayString folder
-    "HashMap/**/*.ts"  // Adjust this path to include all TypeScript files in the ArrayString folder
-    
+    "HashMap/**/*.ts",  // Adjust this path to include all TypeScript files in the HashMap folder
+    "DynamicProgramming/**/*.ts",  // Adjust this path to include all TypeScript files in the DynamicProgramming folder
+    "BinarySearch/**/*.ts",  // Adjust this path to include all TypeScript files in the BinarySearch folder
+    "BinaryTree/**/*.ts",  // Adjust this path to include all TypeScript files in the BinaryTree folder
+    "SlidingWindow/**/*.ts",  // Adjust this path to include all TypeScript files in the SlidingWindow folder
+    "Matrix/**/*.ts",  // Adjust this path to include all TypeScript files in the Matrix folder
+    "Stack/**/*.ts",  // Adjust this path to include all TypeScript files in the Stack folder
+    "TwoPointers/**/*.ts",  // Adjust this path to include all TypeScript files in the TwoPointers folder
   ],
   "exclude": [
-    "node_modules"  // Exclude node_modules from the compilation
+    "node_modules",  // Exclude node_modules from the compilation
+    
   ]
 }

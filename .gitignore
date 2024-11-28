@@ -1,0 +1,10 @@
+# Ignore the dist folder
+dist/
+
+# Other common files to ignore in Node.js projects
+node_modules/
+*.log
+*.env
+
+# TypeScript build files
+*.tsbuildinfo
