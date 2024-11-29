@@ -1,4 +1,3 @@
-"use strict";
 function removeElement(nums, val) {
     let writeIndex = 0;
     for (let i = 0; i < nums.length; i++) {
@@ -12,3 +11,4 @@ function removeElement(nums, val) {
 let nums = [3, 2, 2, 3];
 let val = 3;
 console.log(removeElement(nums, val));
+export {};

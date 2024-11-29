@@ -1,13 +1,11 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var LRUCache = /** @class */ (function () {
-    function LRUCache(capacity) {
+class LRUCache {
+    constructor(capacity) {
         this.capacity = capacity;
         this.map = new Map();
     }
-    LRUCache.prototype.get = function (key) {
+    get(key) {
         if (this.map.has(key)) {
-            var value = this.map.get(key);
+            let value = this.map.get(key);
             if (value != undefined) {
                 this.map.delete(key);
                 this.map.set(key, value);
@@ -15,11 +13,11 @@ var LRUCache = /** @class */ (function () {
             }
         }
         return -1;
-    };
-    LRUCache.prototype.put = function (key, value) {
+    }
+    put(key, value) {
         if (this.map.size == this.capacity) {
             if (!this.map.has(key)) {
-                var keys = Array.from(this.map.keys());
+                let keys = Array.from(this.map.keys());
                 this.map.delete(keys[0]);
             }
             else {
@@ -27,11 +25,11 @@ var LRUCache = /** @class */ (function () {
             }
         }
         this.map.set(key, value);
-    };
-    return LRUCache;
-}());
-var obj = new LRUCache(3);
+    }
+}
+const obj = new LRUCache(3);
 obj.put(1, 'a');
 obj.put(2, 'b');
 obj.put(3, 'c');
 console.log(obj.get(2));
+export {};
