@@ -10,6 +10,10 @@ You can find the code in [`compareVersion.ts`](./ArrayString/compareVersion.ts)
 # 2. Binary Search
 
 # 3. Binary Tree
+1. LeetCode 113. Path Sum || https://leetcode.com/problems/path-sum-ii/ </br>
+You can find the code in [`BT-pathSum.ts`](./BinaryTree/BT-pathSum.ts)
+2. LeetCode 230. Kth Smallest Element in a BST https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ </br>
+You can find the code in [`BST-KthSmallestElement.ts`](./BinaryTree/BST-KthSmallestElement.ts)
 
 # 4. HashMap
 1. LeetCode 146. LRU Cache https://leetcode.com/problems/lru-cache/ </br>

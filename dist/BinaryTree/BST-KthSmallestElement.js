@@ -1,4 +1,3 @@
-"use strict";
 class TreeNode {
     constructor(val, left, right) {
         this.val = (val == undefined ? 0 : val);
@@ -35,3 +34,4 @@ root2.left = new TreeNode(3, new TreeNode(2, new TreeNode(1)), new TreeNode(4));
 root2.right = new TreeNode(6);
 const k2 = 3;
 console.log(`Test Case 2: Expected Output: 3, Actual Output: ${kthSmallest(root2, k2)}`);
+export {};
