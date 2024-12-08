@@ -28,8 +28,13 @@ You can find the code in [`LRU-Cache.ts`](./HashMap/TimeLimitedCache.ts)
 
 # 9. Matrix
 
+# 10. DFS
+1. LeetCode 77 Combinations https://leetcode.com/problems/combinations/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`Combine.ts`](./DFS/Combine.ts)
+2. LeetCode 46 Permutations https://leetcode.com/problems/permutations/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`Permute.ts`](./DFS/Permute.ts)
 
-# 10. Dynamic Programming 
+# 11. Dynamic Programming 
 1. LeetCode 152  Maximum Product Subarray
 https://leetcode.com/problems/maximum-product-subarray/description/
 You can find the code in [`maxProductSubarray.ts`](./DynamicProgramming/maxProductSubarray.ts)
