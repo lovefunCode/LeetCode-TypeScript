@@ -33,4 +33,4 @@ myTree.left.left.right = new TreeNode(2);
 myTree.right.right.left = new TreeNode(5);
 myTree.right.right.right = new TreeNode(11);
 console.log(pathSum(myTree, 22));
-// export {};
+export {};
