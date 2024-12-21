@@ -6,6 +6,9 @@ You can find the code in [`removeElement.ts`](./ArrayString/removeElement.ts)
 2. LeetCode 165 Compare Version Number
 https://leetcode.com/problems/compare-version-numbers/ </br>
 You can find the code in [`compareVersion.ts`](./ArrayString/compareVersion.ts)
+3. Time Difference 
+You can find the code in [`timeDifference.ts`](./ArrayString/timeDifference.ts)
+
 
 # 2. Binary Search
 
@@ -42,7 +45,12 @@ You can find the code in [`Permute.ts`](./DFS/Permute.ts)
 3. LeetCode 39. Combination Sum https://leetcode.com/problems/combination-sum/?envType=study-plan-v2&envId=top-interview-150
 You can find the code in [`combinationSum.ts`](./DFS/combinationSum.ts)
 
-# 11. Dynamic Programming 
+# 11. BFS
+1. LeetCode 1197. Minimum Knight Moves https://leetcode.com/problems/minimum-knight-moves/description/ </br>
+You can find the code in [`minKnightMoves.ts`](./BFS/minKnightMoves.ts)
+
+
+# 12. Dynamic Programming 
 1. LeetCode 152  Maximum Product Subarray
 https://leetcode.com/problems/maximum-product-subarray/description/ </br>
 You can find the code in [`maxProductSubarray.ts`](./DynamicProgramming/maxProductSubarray.ts)
