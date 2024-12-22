@@ -20,6 +20,10 @@ You can find the code in [`BT-pathSum.ts`](./BinaryTree/BT-pathSum.ts)
 2. LeetCode 230. Kth Smallest Element in a BST https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ </br>
 You can find the code in [`BST-KthSmallestElement.ts`](./BinaryTree/BST-KthSmallestElement.ts)
 
+3. LeetCode 1302. Deepest Leaves Sum https://leetcode.com/problems/deepest-leaves-sum/description/ </br>
+You can find the code in [`BT-deepestLeavesSum.ts`](./BinaryTree/BT-deepestLeavesSum.ts)
+
+
 # 4. HashMap
 1. LeetCode 146. LRU Cache https://leetcode.com/problems/lru-cache/ </br>
 You can find the code in [`LRU-Cache.ts`](./HashMap/LRU-Cache.ts)
