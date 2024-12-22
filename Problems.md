@@ -36,6 +36,8 @@ You can find the code in [`LRU-Cache.ts`](./HashMap/TimeLimitedCache.ts)
 You can find the code in [`minWindow.ts`](./SlidingWindow/minWindow.ts)
 
 # 6. Stack
+1. LeetCode 155. Min Stack https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`MinStack .ts`](./Stack/MinStack.ts)
 
 # 7. Two Pointers
 
