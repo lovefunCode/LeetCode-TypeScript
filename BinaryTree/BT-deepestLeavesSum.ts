@@ -1,3 +1,5 @@
+export {}; // Makes this file a module
+
 class TreeNode{
     val: number
     left: TreeNode | null
