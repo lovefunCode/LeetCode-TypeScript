@@ -18,3 +18,9 @@ const date3 = "2024-12-31";
 console.log(timeDifference(date1, date2))
 
 console.log(timeDifference(date1, date3))
+
+function duplicateValues(...args: any){
+    return new Set(args).size != args.length
+}
+console.log(duplicateValues(1,2,3,4,3,5,6,6))
+

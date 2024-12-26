@@ -8,6 +8,8 @@ https://leetcode.com/problems/compare-version-numbers/ </br>
 You can find the code in [`compareVersion.ts`](./ArrayString/compareVersion.ts)
 3. Time Difference 
 You can find the code in [`timeDifference.ts`](./ArrayString/timeDifference.ts)
+4. LeetCode 88. Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`mergeSortedArray.ts`](./ArrayString/mergeSortedArray.ts)
 
 
 # 2. Binary Search
