@@ -1,3 +1,4 @@
+export {}; // Makes this file a module
 // Do not return anything, modify nums1 in-place instead.
 function mergeSortedArray(nums1: number[], m: number, nums2: number[], n: number):void{
     if(n == 0){

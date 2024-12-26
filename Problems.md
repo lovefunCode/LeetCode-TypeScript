@@ -10,6 +10,9 @@ You can find the code in [`compareVersion.ts`](./ArrayString/compareVersion.ts)
 You can find the code in [`timeDifference.ts`](./ArrayString/timeDifference.ts)
 4. LeetCode 88. Merge Sorted Array https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`mergeSortedArray.ts`](./ArrayString/mergeSortedArray.ts)
+5. LeetCode 26. Remove Duplicate from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`removeDuplicates.ts`](./ArrayString/removeDuplicates.ts)
+
 
 
 # 2. Binary Search
