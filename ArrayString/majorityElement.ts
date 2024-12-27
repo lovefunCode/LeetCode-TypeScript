@@ -1,5 +1,5 @@
 
-
+export {}; // Makes this file a module
 function majorityElement(nums: number[]): number{
     let maxNum = Math.ceil(nums.length/2)
     let map: Record<number, number> = {}
