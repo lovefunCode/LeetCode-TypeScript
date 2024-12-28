@@ -17,6 +17,9 @@ You can find the code in [`removeDuplicates2.ts`](./ArrayString/removeDuplicates
 7. LeetCode 169. Majority Element https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`majorityElement.ts`](./ArrayString/majorityElement.ts)
 
+8. LeetCode 189. Rotate Array https://leetcode.com/problems/rotate-array/description/ </br>
+You can find the code in [`rotate.ts`](./ArrayString/rotate.ts)
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>

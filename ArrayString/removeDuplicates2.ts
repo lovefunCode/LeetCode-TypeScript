@@ -1,4 +1,4 @@
-// export {}; // Makes this file a module
+export {}; // Makes this file a module
 function removeDuplicates2(nums: number[], threshold: number): number {
     let count = 1
     let newIndex = 1

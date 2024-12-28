@@ -1,4 +1,4 @@
-export {}; // Makes this file a module
+// export {}; // Makes this file a module
 
 // return new arr
 function rotateReturn(nums: number[], k: number): number[]{
@@ -22,6 +22,22 @@ function rotate(nums: number[], k: number): void{
 // remove == splice(startIndex)
 
 let str = ['fruit', 'apple', 'pie', 'banans']
-console.log(str.splice(1))   //[ 'apple', 'pie', 'banans' ]
-console.log(str)   // [ 'fruit' ]
+// console.log(str.splice(1))   //[ 'apple', 'pie', 'banans' ]
+// console.log(str)   // [ 'fruit' ]
 
+
+// Do not return anything, modify nums in-place instead. 
+function rotate2(nums: number[], k: number): void{
+    let sliceNum: number = nums.length - (k%nums.length)
+    console.log(sliceNum, nums)
+    for(let i = 0; i < sliceNum; i++){
+        nums.push(nums[i])
+    }
+    for(let i = 0; i < sliceNum; i++){
+        nums.shift()
+    }
+    
+    console.log(nums)
+}
+
+console.log(rotate2([-1,-100,3,99], k))
