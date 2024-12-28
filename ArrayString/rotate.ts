@@ -1,3 +1,5 @@
+export {}; // Makes this file a module
+
 // return new arr
 function rotateReturn(nums: number[], k: number): number[]{
     let sliceNum = nums.length - (k%nums.length)

@@ -44,6 +44,9 @@ You can find the code in [`TimeLimitedCache.ts`](./HashMap/TimeLimitedCache.ts)
 3. You can find the code in [`LRUCacheWithSetTimeout.ts`](./HashMap/LRUCacheWithSetTimeout.ts)
 4. LeetCode 2700. Difference Between Two Objects https://leetcode.com/problems/differences-between-two-objects/description/ </br>
 You can find the code in [`Object-Diff.ts`](./HashMap/Object-Diff.ts)
+5. LeetCode 3. Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=hash-table </br>
+You can find the code in [`lengthOfLongestSubstring.ts`](./HashMap/lengthOfLongestSubstring.ts)
 
 
 # 5. Slding Window
