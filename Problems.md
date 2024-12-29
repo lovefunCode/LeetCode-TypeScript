@@ -20,6 +20,9 @@ You can find the code in [`majorityElement.ts`](./ArrayString/majorityElement.ts
 8. LeetCode 189. Rotate Array https://leetcode.com/problems/rotate-array/description/ </br>
 You can find the code in [`rotate.ts`](./ArrayString/rotate.ts)
 
+9. LeetCode Zigzag Conversion https://leetcode.com/problems/zigzag-conversion/?envType=problem-list-v2&envId=string </br>
+You can find the code in [`zigzagConversion.ts`](./ArrayString/zigzagConversion.ts)
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
@@ -50,6 +53,8 @@ You can find the code in [`Object-Diff.ts`](./HashMap/Object-Diff.ts)
 5. LeetCode 3. Longest Substring Without Repeating Characters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=hash-table </br>
 You can find the code in [`lengthOfLongestSubstring.ts`](./HashMap/lengthOfLongestSubstring.ts)
+6. LeetCode 27. Integer to English Words https://leetcode.com/problems/integer-to-english-words/description/ </br>
+You can find the code in [`IntegerToEnglishWords.ts`](./HashMap/IntegerToEnglishWords.ts)
 
 
 # 5. Slding Window

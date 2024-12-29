@@ -1,3 +1,4 @@
+export {}; // Makes this file a module
 function combine(n: number, k: number): number[][]{
     let res: number[][] = []
     dfs(1, [])

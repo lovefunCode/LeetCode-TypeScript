@@ -1,4 +1,4 @@
-// export {}; // Makes this file a module
+export {}; // Makes this file a module
 
 // return new arr
 function rotateReturn(nums: number[], k: number): number[]{
