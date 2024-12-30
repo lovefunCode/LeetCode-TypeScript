@@ -1,3 +1,4 @@
+export {}
 type F = (...args: unknown[]) => void
 function debounce(fn: F, t: number): F {
     let timerId: number | undefined

@@ -104,5 +104,6 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 2. day-2 in [`day2-CompositionVsInheritance.ts`](./TS-Features/day2-CompositionVsInheritance.ts)
 3. day-3 in [`day3-checkIfInstanceOf.ts`](./TS-Features/day3-checkIfInstanceOf.ts)
 4. day-4 in [`day4-Debounce.ts`](./TS-Features/day4-Debounce.ts)
+5. day-5 in [`day5-Throttle.ts`](./TS-Features/day5-Throttle.ts)
 
 
