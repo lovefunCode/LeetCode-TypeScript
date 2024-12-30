@@ -1,3 +1,4 @@
+export {}
 function integerToEnglishWords(num: number): string {
     let map: Record<number, string> = {
         1000: 'Thousand',

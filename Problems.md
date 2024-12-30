@@ -20,8 +20,11 @@ You can find the code in [`majorityElement.ts`](./ArrayString/majorityElement.ts
 8. LeetCode 189. Rotate Array https://leetcode.com/problems/rotate-array/description/ </br>
 You can find the code in [`rotate.ts`](./ArrayString/rotate.ts)
 
-9. LeetCode Zigzag Conversion https://leetcode.com/problems/zigzag-conversion/?envType=problem-list-v2&envId=string </br>
+9. LeetCode 6. Zigzag Conversion https://leetcode.com/problems/zigzag-conversion/?envType=problem-list-v2&envId=string </br>
 You can find the code in [`zigzagConversion.ts`](./ArrayString/zigzagConversion.ts)
+
+10. LeetCode 8 String to Integer(atoi)
+You can find the code in [`myAtoi.ts`](./ArrayString/myAtoi.ts)
 
 
 # 2. Binary Search
