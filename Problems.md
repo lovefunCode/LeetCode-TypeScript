@@ -99,3 +99,10 @@ You can find the code in [`maxProductSubarray.ts`](./DynamicProgramming/maxProdu
 2. LeetCode 198. House Robber https://leetcode.com/problems/house-robber/description/
 You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 
+# 13. TS-Features
+1. day-1 in [`day1-Array-FlatMap.ts`](./TS-Features/day1-Array-FlatMap.ts)
+2. day-2 in [`day2-CompositionVsInheritance.ts`](./TS-Features/day2-CompositionVsInheritance.ts)
+3. day-3 in [`day3-checkIfInstanceOf.ts`](./TS-Features/day3-checkIfInstanceOf.ts)
+4. day-4 in [`day4-Debounce.ts`](./TS-Features/day4-Debounce.ts)
+
+
