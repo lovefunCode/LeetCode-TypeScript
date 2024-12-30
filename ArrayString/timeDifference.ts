@@ -14,13 +14,16 @@ function timeDifference(date1:string, date2:string): string|number{
 const date1 = "2023-6-30";
 const date2 = "2024-12-21";
 const date3 = "2024-12-31";
+const date4 = new Date().toString();
+console.log('date4---', date4)
 
 console.log(timeDifference(date1, date2))
 
 console.log(timeDifference(date1, date3))
+console.log(timeDifference(date1, date4))
 
-function duplicateValues(...args: any){
-    return new Set(args).size != args.length
-}
-console.log(duplicateValues(1,2,3,4,3,5,6,6))
+// function duplicateValues(...args: any){
+//     return new Set(args).size != args.length
+// }
+// console.log(duplicateValues(1,2,3,4,3,5,6,6))
 
