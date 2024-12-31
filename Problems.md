@@ -26,6 +26,8 @@ You can find the code in [`zigzagConversion.ts`](./ArrayString/zigzagConversion.
 10. LeetCode 8 String to Integer(atoi)
 You can find the code in [`myAtoi.ts`](./ArrayString/myAtoi.ts)
 
+11. LeetCode 49. Group Anagrams https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=string 
+You can find the code in [`groupAnagrams.ts`](./ArrayString/groupAnagrams.ts)
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
