@@ -23,11 +23,19 @@ You can find the code in [`rotate.ts`](./ArrayString/rotate.ts)
 9. LeetCode 6. Zigzag Conversion https://leetcode.com/problems/zigzag-conversion/?envType=problem-list-v2&envId=string </br>
 You can find the code in [`zigzagConversion.ts`](./ArrayString/zigzagConversion.ts)
 
-10. LeetCode 8 String to Integer(atoi)
+10. LeetCode 8 String to Integer(atoi) </br>
 You can find the code in [`myAtoi.ts`](./ArrayString/myAtoi.ts)
 
-11. LeetCode 49. Group Anagrams https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=string 
+11. LeetCode 49. Group Anagrams https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=string </br>
 You can find the code in [`groupAnagrams.ts`](./ArrayString/groupAnagrams.ts)
+
+12. LeetCode 17. Letter Combinations of a Phone Number https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=string</br>
+You can find the code in [`letterCombinations.ts`](./ArrayString/letterCombinations.ts)
+
+13. LeetCode 43. Multiply Strings https://leetcode.com/problems/multiply-strings/?envType=problem-list-v2&envId=string </br>
+You can find the code in [`multiply.ts`](./ArrayString/multiply.ts)
+
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
@@ -45,6 +53,7 @@ You can find the code in [`BT-deepestLeavesSum.ts`](./BinaryTree/BT-deepestLeave
 
 4. LeetCode 124. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/description/ </br>
 You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-maxPathSum.ts)
+
 
 
 # 4. HashMap
@@ -110,5 +119,6 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 3. day-3 in [`day3-checkIfInstanceOf.ts`](./TS-Features/day3-checkIfInstanceOf.ts)
 4. day-4 in [`day4-Debounce.ts`](./TS-Features/day4-Debounce.ts)
 5. day-5 in [`day5-Throttle.ts`](./TS-Features/day5-Throttle.ts)
+6. day-6 in LeetCode 2693. Call Function with Custom Context [`day6-callPolyfill.ts`](./TS-Features/day6-callPolyfill.ts)
 
 
