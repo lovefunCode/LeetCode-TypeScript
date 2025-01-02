@@ -36,7 +36,6 @@ You can find the code in [`letterCombinations.ts`](./ArrayString/letterCombinati
 You can find the code in [`multiply.ts`](./ArrayString/multiply.ts)
 
 14. LeetCode 121. Best Time to Buy and Sell Stock. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150</br>
-
 You can find the code in [`maxProfit.ts`](./ArrayString/maxProfit.ts)
 
 
@@ -124,5 +123,6 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 4. day-4 in [`day4-Debounce.ts`](./TS-Features/day4-Debounce.ts)
 5. day-5 in [`day5-Throttle.ts`](./TS-Features/day5-Throttle.ts)
 6. day-6 in LeetCode 2693. Call Function with Custom Context [`day6-callPolyfill.ts`](./TS-Features/day6-callPolyfill.ts)
+7. day-7 in [`day7-Web-vitals.md`](./TS-Features/day7-Web-vitals.md)
 
 
