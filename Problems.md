@@ -35,6 +35,10 @@ You can find the code in [`letterCombinations.ts`](./ArrayString/letterCombinati
 13. LeetCode 43. Multiply Strings https://leetcode.com/problems/multiply-strings/?envType=problem-list-v2&envId=string </br>
 You can find the code in [`multiply.ts`](./ArrayString/multiply.ts)
 
+14. LeetCode 121. Best Time to Buy and Sell Stock. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150</br>
+
+You can find the code in [`maxProfit.ts`](./ArrayString/maxProfit.ts)
+
 
 
 # 2. Binary Search
