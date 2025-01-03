@@ -57,6 +57,8 @@ You can find the code in [`BT-deepestLeavesSum.ts`](./BinaryTree/BT-deepestLeave
 4. LeetCode 124. Binary Tree Maximum Path Sum https://leetcode.com/problems/binary-tree-maximum-path-sum/description/ </br>
 You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-maxPathSum.ts)
 
+5. LeetCode 314. Binary Tree Vertical Order Traversal https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/ </br>
+You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-verticalOrder.ts)
 
 
 # 4. HashMap
@@ -124,5 +126,6 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 5. day-5 in [`day5-Throttle.ts`](./TS-Features/day5-Throttle.ts)
 6. day-6 in LeetCode 2693. Call Function with Custom Context [`day6-callPolyfill.ts`](./TS-Features/day6-callPolyfill.ts)
 7. day-7 in [`day7-Web-vitals.md`](./TS-Features/day7-Web-vitals.md)
+
 
 
