@@ -58,7 +58,7 @@ You can find the code in [`BT-deepestLeavesSum.ts`](./BinaryTree/BT-deepestLeave
 You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-maxPathSum.ts)
 
 5. LeetCode 314. Binary Tree Vertical Order Traversal https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/ </br>
-You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-verticalOrder.ts)
+You can find the code in [`BT-verticalOrder.ts`](./BinaryTree/BT-verticalOrder.ts)
 
 
 # 4. HashMap
