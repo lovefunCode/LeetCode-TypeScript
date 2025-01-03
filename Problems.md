@@ -126,6 +126,7 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 5. day-5 in [`day5-Throttle.ts`](./TS-Features/day5-Throttle.ts)
 6. day-6 in LeetCode 2693. Call Function with Custom Context [`day6-callPolyfill.ts`](./TS-Features/day6-callPolyfill.ts)
 7. day-7 in [`day7-Web-vitals.md`](./TS-Features/day7-Web-vitals.md)
+8. day-8 in [`day8-FunctionComposition.ts`](./TS-Features/day8-FunctionComposition.ts)
 
 
 

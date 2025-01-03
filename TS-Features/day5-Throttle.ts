@@ -1,3 +1,4 @@
+export {}
 type F = (...args: unknown[])=> void
 //  Basic throttle(without last call handling)
 function basicThrottle(fn: F, t: number): F{
