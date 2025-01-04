@@ -1,3 +1,4 @@
+export {}
 // flatMap combines mapping and flattening operations on arrays
 // 1. Transform each element in an array into another array(mapping)
 // 2. Flatten the resulting arrays into a single-level array(flattening)
