@@ -128,7 +128,7 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 7. day-7 in [`day7-Web-vitals.md`](./TS-Features/day7-Web-vitals.md)
 8. day-8 in [`day8-FunctionComposition.ts`](./TS-Features/day8-FunctionComposition.ts)
 9. day-9 in LeetCode 2626. Array Reduce Transformation. [`day9-Array-reduce.ts`](./TS-Features/day9-Array-reduce.ts)  
-
+10. day-10 LeetCode 2621. Sleep in [`day10-sleep.ts`](./TS-Features/day10-sleep.ts)  
 
 
 
