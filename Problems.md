@@ -38,7 +38,8 @@ You can find the code in [`multiply.ts`](./ArrayString/multiply.ts)
 14. LeetCode 121. Best Time to Buy and Sell Stock. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150</br>
 You can find the code in [`maxProfit.ts`](./ArrayString/maxProfit.ts)
 
-
+15. LeetCode 238. Product of Array Except Self.https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`productExceptSelf.ts`](./ArrayString/productExceptSelf.ts)
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
