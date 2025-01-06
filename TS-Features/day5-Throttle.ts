@@ -39,7 +39,7 @@ function throttle(fn: F, t: number): F{
     return wrapper
 }
 
-const throttled = throttle(console.log, 1000);
+const throttled = basicThrottle(console.log, 1000);
 throttled("log1"); // logged immediately.
 throttled("log2"); // logged at t=100ms.
 throttled("log3"); // logged at t=100ms.
