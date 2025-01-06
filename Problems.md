@@ -134,6 +134,7 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 8. day-8 in [`day8-FunctionComposition.ts`](./TS-Features/day8-FunctionComposition.ts)
 9. day-9 in LeetCode 2626. Array Reduce Transformation. [`day9-Array-reduce.ts`](./TS-Features/day9-Array-reduce.ts)  
 10. day-10 LeetCode 2621. Sleep in [`day10-sleep.ts`](./TS-Features/day10-sleep.ts)  
+11. day-11 in [`day11-Closure.ts`](./TS-Features/day11-Closure.ts)  
 
 
 
