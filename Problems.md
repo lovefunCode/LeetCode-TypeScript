@@ -44,6 +44,9 @@ You can find the code in [`productExceptSelf.ts`](./ArrayString/productExceptSel
 16. LeetCode 134. Gas Station. https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`canCompleteCircuit.ts`](./ArrayString/canCompleteCircuit.ts)
 
+17. LeetCode 71. Simplify Path https://leetcode.com/problems/simplify-path/description/?envType=problem-list-v2&envId=string </br>
+You can find the code in [`simplifyPath.ts`](./ArrayString/simplifyPath.ts)
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
