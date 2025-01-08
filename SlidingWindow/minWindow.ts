@@ -1,3 +1,4 @@
+export {}
 function minWindow<T extends ArrayLike<U>, U>(s: T, t: T): string {
     let res:string = ''
     let map: Map<U, number> = new Map()
