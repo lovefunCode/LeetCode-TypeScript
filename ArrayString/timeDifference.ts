@@ -6,13 +6,13 @@ function timeDifference(date1:string, date2:string): string|number{
     let dayDiff = Math.floor(timeDiff/(1000*60*60*24))
     let hours = dayDiff * 8
 
-    return `From when you've arrived in the UK, Total is ${dayDiff} days, ${hours} hours`
+    return `From when you've arrived in the UK until ${date2}, Total is ${dayDiff} days, ${hours} hours`
 }
 
 
 // Example usage:
 const date1 = "2023-6-30";
-const date3 = "2024-12-31";
+const date3 = "2025-1-31";
 const date4 = new Date().toString();
 console.log('date4---', date4)
 
