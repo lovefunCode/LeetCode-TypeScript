@@ -106,7 +106,8 @@ You can find the code in [`minWindow.ts`](./SlidingWindow/minWindow.ts)
 You can find the code in [`MinStack .ts`](./Stack/MinStack.ts)
 
 # 7. Two Pointers
-
+1. LeetCode 167. Two Sum || - Input Array is Sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`twoSum.ts`](./TwoPointers/twoSum.ts)
 
 # 8. Graph
 
