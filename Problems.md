@@ -53,6 +53,9 @@ You can find the code in [`restoreIpAddresses.ts`](./ArrayString/restoreIpAddres
 19. LeetCode 151. Reverse Words in a String https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`reverseWords.ts`](./ArrayString/reverseWords.ts)
 
+20. LeetCode 44. Wildcard Matching https://leetcode.com/problems/wildcard-matching/?envType=problem-list-v2&envId=string </br>
+You can find the code in [`wildcardMatching.ts`](./ArrayString/wildcardMatching.ts)
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
@@ -89,6 +92,9 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/des
 You can find the code in [`lengthOfLongestSubstring.ts`](./HashMap/lengthOfLongestSubstring.ts)
 6. LeetCode 27. Integer to English Words https://leetcode.com/problems/integer-to-english-words/description/ </br>
 You can find the code in [`IntegerToEnglishWords.ts`](./HashMap/IntegerToEnglishWords.ts)
+7. LeetCode 128. Longest Consecutive Sequence https://leetcode.com/problems/longest-consecutive-sequence/?envType=problem-list-v2&envId=hash-table </br>
+You can find the code in [`longestConsecutiveSequence.ts`](./HashMap/longestConsecutiveSequence.ts)
+
 
 
 # 5. Slding Window

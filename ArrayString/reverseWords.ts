@@ -1,4 +1,5 @@
 
+export {}
 function reverseWords(s: string):string{
     let splittedArr = s.trim().split(' ')
     console.log(splittedArr)
