@@ -1,3 +1,4 @@
+export {}
 function restoreIpAddresses(s: string): string[]{
     let res: string[] = []
     function backtrack(start: number, parts: string[]){
