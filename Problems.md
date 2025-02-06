@@ -101,6 +101,9 @@ You can find the code in [`IntegerToEnglishWords.ts`](./HashMap/IntegerToEnglish
 7. LeetCode 128. Longest Consecutive Sequence https://leetcode.com/problems/longest-consecutive-sequence/?envType=problem-list-v2&envId=hash-table </br>
 You can find the code in [`longestConsecutiveSequence.ts`](./HashMap/longestConsecutiveSequence.ts)
 
+8. LeetCode 208. Implement Trie(Prefix Tree) https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=problem-list-v2&envId=hash-table
+You can find the code in [`Trie.ts`](./HashMap/Trie.ts)
+
 
 
 # 5. Slding Window
