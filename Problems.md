@@ -109,6 +109,10 @@ You can find the code in [`Trie.ts`](./HashMap/Trie.ts)
 # 5. Slding Window
 1. LeetCode 76. Minimun Window Substring https://leetcode.com/problems/minimum-window-substring/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`minWindow.ts`](./SlidingWindow/minWindow.ts)
+2. LeetCode 3. Longest Substring Without Repeating Characters. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`lengthOfLongestSubstring.ts`](./SlidingWindow/lengthOfLongestSubstring.ts)
+3. LeetCode 209. Minimum Size Subarray Sum https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150 </br>
+You can find the code in [`minSubArrayLen.ts`](./SlidingWindow/minSubArrayLen.ts)
 
 # 6. Stack
 1. LeetCode 155. Min Stack https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150 </br>

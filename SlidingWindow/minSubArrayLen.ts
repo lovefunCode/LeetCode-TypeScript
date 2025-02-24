@@ -1,3 +1,4 @@
+export {}
 function minSubArrayLen(target: number, nums:number[]): number{
     let minLen = Infinity
     let left:number = 0
