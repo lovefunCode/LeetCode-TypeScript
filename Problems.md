@@ -137,8 +137,10 @@ You can find the code in [`rotate .ts`](./Matrix/rotate.ts)
 You can find the code in [`Combine.ts`](./DFS/Combine.ts)
 2. LeetCode 46. Permutations https://leetcode.com/problems/permutations/description/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`Permute.ts`](./DFS/Permute.ts)
-3. LeetCode 39. Combination Sum https://leetcode.com/problems/combination-sum/?envType=study-plan-v2&envId=top-interview-150
+3. LeetCode 39. Combination Sum https://leetcode.com/problems/combination-sum/?envType=study-plan-v2&envId=top-interview-150 </br>
 You can find the code in [`combinationSum.ts`](./DFS/combinationSum.ts)
+4. LeetCode 78. Subsets https://leetcode.com/problems/subsets/description/ </br>
+You can find the code in [`subsets.ts`](./DFS/subsets.ts)
 
 # 11. BFS
 1. LeetCode 1197. Minimum Knight Moves https://leetcode.com/problems/minimum-knight-moves/description/ </br>
