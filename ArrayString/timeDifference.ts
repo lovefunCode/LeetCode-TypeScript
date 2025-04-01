@@ -4,9 +4,10 @@ function timeDifference(date1:string, date2:string): string|number{
     console.log(d1, d2)
     let timeDiff = Math.abs(d2.getTime()-d1.getTime())
     let dayDiff = Math.floor(timeDiff/(1000*60*60*24))
+    let monthDiff = dayDiff/30
     let hours = dayDiff * 8
 
-    return `From when you've arrived in the UK until ${date2}, Total is ${dayDiff} days, ${hours} hours`
+    return `From when you've arrived in the UK until ${date2}, Total is ${dayDiff} days, ${hours} hours, ${monthDiff.toFixed(2)}monthDiff`
 }
 
 
