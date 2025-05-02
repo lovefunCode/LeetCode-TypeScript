@@ -68,7 +68,10 @@ You can find the code in [`pivotArray.ts`](./ArrayString/pivotArray.ts)
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
-You can find the code in [`findPeakElement.ts`](./BinaryTree/findPeakElement.ts)
+You can find the code in [`findPeakElement.ts`](./BinarySearch/findPeakElement.ts)
+
+2. LeetCode 4. Median of Two Sorted Arrays https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+You can find the code in [`findMedianSortedArrays.ts`](./BinarySearch/findMedianSortedArrays.ts)
 
 
 # 3. Binary Tree

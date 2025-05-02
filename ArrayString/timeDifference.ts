@@ -7,9 +7,8 @@ function timeDifference(date1:string, date2:string): string|number{
     let monthDiff = dayDiff/30
     let hours = dayDiff * 8
 
-    return `From when you've arrived in the UK until ${date2}, Total is ${dayDiff} days, ${hours} hours, ${monthDiff.toFixed(2)}monthDiff`
+    return `From when you've arrived in the UK until ${date2}, Total is ${dayDiff} days, ${hours} hours, ${monthDiff.toFixed(2)}  monthDiff`
 }
-
 
 // Example usage:
 const date1 = "2023-6-30";
