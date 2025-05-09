@@ -65,6 +65,9 @@ You can find the code in [`convertToTitle.ts`](./ArrayString/convertToTitle.ts)
 23. LeetCode 2161. Partition Array According to Given Pivot https://leetcode.com/problems/partition-array-according-to-given-pivot/description/ </br>
 You can find the code in [`pivotArray.ts`](./ArrayString/pivotArray.ts)
 
+24. LeetCode 5. Longest Palidromic Substring https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=string  </br>
+You can find the code in [`longestPalindrome.ts`](./ArrayString/longestPalindrome.ts)
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
