@@ -12,7 +12,7 @@ function longestPalindrome(s: string): string{
         res = s[mid]
     }
     console.log()
-    while(left >= 0 && right <= s.length && s[left] == s[right]){
+    while(left >= 0 && right < s.length && s[left] == s[right]){
         res = s[left] + res + s[right]
         left--
         right++

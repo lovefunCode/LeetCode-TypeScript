@@ -157,12 +157,17 @@ You can find the code in [`pacificAtlantic.ts`](./BFS/pacificAtlantic.ts)
 
 
 
-# 12. Dynamic Programming 
+# 12. Dynamic Programming(Solving complex problems by breaking them into simpler subproblems, storing the results, and avoiding repeated work) 
 1. LeetCode 152  Maximum Product Subarray
 https://leetcode.com/problems/maximum-product-subarray/description/ </br>
 You can find the code in [`maxProductSubarray.ts`](./DynamicProgramming/maxProductSubarray.ts)
 2. LeetCode 198. House Robber https://leetcode.com/problems/house-robber/description/
 You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
+
+# 13. Backtracking(Try -> Fail -> Go Back -> Try Another Way)
+1. LeetCode 22. Generate Parentheses https://leetcode.com/problems/generate-parentheses/?envType=problem-list-v2&envId=string  </br>
+You can find the code in [`generateParentheses.ts`](./Backtracking/generateParentheses.ts)
+
 
 # 13. TS-Features
 1. day-1 in [`day1-Array-FlatMap.ts`](./TS-Features/day1-Array-FlatMap.ts)
