@@ -68,6 +68,11 @@ You can find the code in [`pivotArray.ts`](./ArrayString/pivotArray.ts)
 24. LeetCode 5. Longest Palidromic Substring https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=string  </br>
 You can find the code in [`longestPalindrome.ts`](./ArrayString/longestPalindrome.ts)
 
+25. LeetCode 187. Repeated DNA Sequences https://leetcode.com/problems/repeated-dna-sequences/?envType=problem-list-v2&envId=string </br>
+You can find the code in [`findRepeatedDnaSequences.ts`](./ArrayString/findRepeatedDnaSequences.ts)
+
+
+
 
 # 2. Binary Search
 1. LeetCode 162. Find Peak Element: https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 </br>
@@ -91,6 +96,8 @@ You can find the code in [`BT-maxPathSum.ts`](./BinaryTree/BT-maxPathSum.ts)
 
 5. LeetCode 314. Binary Tree Vertical Order Traversal https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/ </br>
 You can find the code in [`BT-verticalOrder.ts`](./BinaryTree/BT-verticalOrder.ts)
+
+
 
 
 # 4. HashMap
