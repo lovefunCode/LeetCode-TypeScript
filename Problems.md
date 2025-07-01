@@ -174,6 +174,8 @@ You can find the code in [`houseRob.ts`](./DynamicProgramming/houseRob.ts)
 # 13. Backtracking(Try -> Fail -> Go Back -> Try Another Way)
 1. LeetCode 22. Generate Parentheses https://leetcode.com/problems/generate-parentheses/?envType=problem-list-v2&envId=string  </br>
 You can find the code in [`generateParentheses.ts`](./Backtracking/generateParentheses.ts)
+2. LeetCode 79. Word Search https://leetcode.com/problems/word-search/</br>
+You can find the code in [`wordExist.ts`](./Backtracking/wordExist.ts)
 
 
 # 13. TS-Features

@@ -11,7 +11,7 @@ function timeDifference(date1:string, date2:string): string|number{
 }
 
 // Example usage:
-const date1 = "2023-6-30";
+const date1 = "2023-6-11";
 const date3 = "2025-1-31";
 const date4 = new Date().toString();
 console.log('date4---', date4)
