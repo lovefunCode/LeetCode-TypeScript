@@ -154,6 +154,10 @@ You can find the code in [`Permute.ts`](./DFS/Permute.ts)
 You can find the code in [`combinationSum.ts`](./DFS/combinationSum.ts)
 4. LeetCode 78. Subsets https://leetcode.com/problems/subsets/description/ </br>
 You can find the code in [`subsets.ts`](./DFS/subsets.ts)
+5. LeetCode 1376. Time Needed to Inform All Employees https://leetcode.com/problems/time-needed-to-inform-all-employees/ </br> 
+You can find the code in [`Permute.ts`](./DFS/numOfMinutes.js) </br>
+
+ 
 
 
 # 11. BFS

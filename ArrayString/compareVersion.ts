@@ -17,5 +17,5 @@ function compareVersion(version1: string, version2: string):number{
 }
 const version1 = "1.01", version2 = "1.001"
 const version3 = "1.2", version4 = "1.10"
-// console.log(compareVersion(version1, version2))
+console.log(compareVersion(version1, version2))
 console.log(compareVersion(version3, version4))

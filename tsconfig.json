@@ -22,7 +22,7 @@
     "Stack/**/*.ts",  // Adjust this path to include all TypeScript files in the Stack folder
     "TwoPointers/**/*.ts",  // Adjust this path to include all TypeScript files in the TwoPointers folder
     "DFS/**/*.ts",  // Adjust this path to include all TypeScript files in the DFS folder
-    "BFS/**/*.ts",  // Adjust this path to include all TypeScript files in the BFS folder
+    "BFS/**/*.ts", "BinaryTree/BST.js", "DFS/numOfMinutes.js",  // Adjust this path to include all TypeScript files in the BFS folder
   ],
   "exclude": [
     "node_modules",  // Exclude node_modules from the compilation
